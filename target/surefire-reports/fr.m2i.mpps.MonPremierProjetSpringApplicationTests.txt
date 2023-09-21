@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fr.m2i.mpps.MonPremierProjetSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.425 s - in fr.m2i.mpps.MonPremierProjetSpringApplicationTests
